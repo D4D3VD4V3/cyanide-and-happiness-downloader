@@ -1,5 +1,5 @@
-
-![Travis](https://travis-ci.org/D4D3VD4V3/cyanide-and-happiness-downloader.svg?branch=master)
+**Travis CI:**<br>
+[![Travis](https://travis-ci.org/D4D3VD4V3/cyanide-and-happiness-downloader.svg?branch=master)](https://travis-ci.org/D4D3VD4V3/cyanide-and-happiness-downloader)
 
 **Usage:**
 -  Download all comics to the script's directory with the date published as the filenames:<br>
